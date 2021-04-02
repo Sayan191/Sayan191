@@ -3,9 +3,9 @@
 ### 🌱 I’m currently learning MERN STACK
 ### 👯 I’m looking to collaborate on Frontend Projects
 ### 🤔 I’m looking for help with Flutter
-### 💬 Ask me about 
-### 📫 How to reach me: 
- 😄 Pronouns: ...
+### 💬 If you want to Collab 
+### 📫 LinkedIn: https://www.linkedin.com/in/sayan-talukdar-a06a001a2/
+### 😄 I need to be sorted out
 ### ⚡ Fun fact: I can do this all day
 
 <a href="https://github.com/Sayan191">
