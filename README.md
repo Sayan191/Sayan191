@@ -1,6 +1,6 @@
 
 ### 🔭 I’m currently pursuing BTech. in Information Technology
-### 🌱 I’m currently learning MERN STACK
+### 🌱 I’m currently working with MERN STACK
 ### 👯 I’m looking to collaborate on Full Stack Projects
 ### 🤔 I’m looking for help with Flutter
 ### 💬 If you want to Collab 
